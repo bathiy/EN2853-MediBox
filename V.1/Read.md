@@ -70,12 +70,6 @@ The OLED display shows:
 - **Buzzer** plays a melody to indicate alarms or environment warnings.
 - **LED** turns on during active alarms.
 
-## 📦 Future Improvements
-
-- Add RTC backup (e.g., DS3231) for offline timekeeping
-- Add medicine dosage logs
-- Add mobile notification feature via Wi-Fi
-- Improve UI with joystick or touchscreen
 
 ## ✅ How to Run on Wokwi
 
