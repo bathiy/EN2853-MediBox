@@ -101,3 +101,8 @@ To visualize and control the MediBox:
 - Shade control uses a mathematical model based on average light, temperature, and user-defined parameters to adjust a servo.
 
 ---
+**Developed by:** *Bathiya Prabhath Anuradha 220036L *  
+**Version:** 1.0  
+**Module:** EN2853  
+**Platform:** Arduino (ESP32) + Wokwi  
+**Simulation:** [Wokwi.com](https://wokwi.com/projects/431290141517189121)
