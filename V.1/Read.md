@@ -96,5 +96,5 @@ This project was submitted for the **EN2853 Embedded Systems** module. It demons
 **Version:** 1.0  
 **Module:** EN2853  
 **Platform:** Arduino (ESP32) + Wokwi  
-**Simulation:** [Wokwi.com]([https://wokwi.com/](https://wokwi.com/projects/426498239432179713))
+**Simulation:** [Wokwi.com](https://wokwi.com/projects/426498239432179713)
 
