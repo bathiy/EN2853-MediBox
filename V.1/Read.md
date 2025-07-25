@@ -27,8 +27,10 @@ This project is designed and tested on [Wokwi Arduino Simulator](https://wokwi.c
 
 ## 📁 Project Structure
 
-- `medi_box.ino` – Main Arduino source file with all functionality
+- `220036L_code.ino` – Main Arduino source file with all functionality
 - `README.md` – This documentation file
+- `diagram.json` - Wokwi component placements describing fille
+- `libraries.txt` - Related arduino libraries
 
 ## 📌 Features
 
