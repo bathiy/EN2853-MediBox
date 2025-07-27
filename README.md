@@ -11,8 +11,8 @@ Welcome to the **MediBox Project**, a smart embedded system developed to help us
 
 | Folder | Description |
 |--------|-------------|
-| [`V1_MediBox`](./V1_MediBox) | Original version of MediBox built for the EN2853 Embedded Systems assignment. Uses Wi-Fi for NTP and supports 2 alarms with environment monitoring. |
-| [`V2_MediBox`](./V2_MediBox) | Enhanced MediBox with MQTT communication. Publishes sensor data and receives dynamic configuration commands from a Node-RED dashboard. |
+| [`V1_MediBox`](./V.1) | Original version of MediBox built for the EN2853 Embedded Systems assignment. Uses Wi-Fi for NTP and supports 2 alarms with environment monitoring. |
+| [`V2_MediBox`](./V.2) | Enhanced MediBox with MQTT communication. Publishes sensor data and receives dynamic configuration commands from a Node-RED dashboard. |
 
 ---
 
@@ -46,8 +46,8 @@ Welcome to the **MediBox Project**, a smart embedded system developed to help us
 
 ## 📦 Getting Started
 
-1. Explore [`V1_MediBox`](./V1_MediBox) for a standalone version tested in Wokwi.
-2. Explore [`V2_MediBox`](./V2_MediBox) for the connected version with real-time remote updates.
+1. Explore [`V1_MediBox`](./V.1) for a standalone version tested in Wokwi.
+2. Explore [`V2_MediBox`](./V.2) for the connected version with real-time remote updates.
 3. Each version contains its own detailed `README.md` file with simulation and setup instructions.
 
 ---
